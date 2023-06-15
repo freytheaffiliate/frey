@@ -91,6 +91,7 @@ ul{
  flex-wrap: wrap;
  flex-basis: 250px;
  font-size:40px;
+ font-family: "Calibri Light";
 }
 
 #content1{
@@ -111,6 +112,7 @@ ul{
     font-size: 20px;
     width: 50%;
     margin: 30px;
+    font-family: "Calibri Light";
 }
 .div2{
    
