@@ -83,10 +83,10 @@ ul{
 }
 
 .main01{
+ margin-top:5px;
  display: flex;
  flex-direction: column;
  justify-content: center;
- font-size:32px;
  align-items: start;
  flex-wrap: wrap;
  flex-basis: 250px;
@@ -438,7 +438,6 @@ details>summary{
     .main01{
        height: fit-content;
        width: fit-content;
-       font-size: 32px;
        align-self:auto;
        
     }
